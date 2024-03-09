@@ -1,0 +1,19 @@
+body {
+    background-color: gray;
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul {
+    list-style-type: none;
+    text-align: left;
+}
+
+.recipe {
+    background-color: hsl(212, 60%, 40%);
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: none;
+}
