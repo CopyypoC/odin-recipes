@@ -10,10 +10,19 @@ ul {
     text-align: left;
 }
 
+ol li {
+    text-align: left;
+}
+
 .recipe {
     background-color: hsl(212, 60%, 40%);
     color: white;
     font-size: 24px;
     font-weight: bold;
     text-decoration: none;
+}
+
+.home-btn {
+    font-size: 32px;
+    font-weight: bold;
 }
